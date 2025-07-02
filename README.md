@@ -21,4 +21,4 @@ This Python script batch-transcodes all video files in a folder into H.264 MP4 p
 3. Run:
    ```bash
    python3 transcode_to_mp4.py
-4. Check output/ for proxies and transcode_log.csv for results
+4. Check `output/` for proxies and `transcode_log.csv` for results
