@@ -22,3 +22,52 @@ This Python script batch-transcodes all video files in a folder into H.264 MP4 p
    ```bash
    python3 transcode_to_mp4.py
 4. Check `output/` for proxies and `transcode_log.csv` for results
+
+# 🎞️ Post Production Automation Tools
+
+Welcome! This repository contains Python and Bash tools built to automate real-world workflows in post-production environments — from transcoding to metadata extraction to delivery automation.
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Henry D. Thompson** — a post-production professional turned engineering-minded MBA candidate at Claremont Graduate University. After a decade working with top-tier clients like Netflix, HBO, and Warner Bros., I now focus on building efficient, scalable tools that bridge editorial, operations, and technology.
+
+Currently interning at **NBCUniversal** in the Operations & Technology division, where I’m deepening my technical skill set to pursue a full-time role in media engineering.
+
+---
+
+## ⚒️ What You'll Find Here
+
+| Tool | Description | Tech |
+|------|-------------|------|
+| [`ffmpeg_transcode_automation`](./ffmpeg_transcode_automation) | Batch transcodes source files to MP4 proxies and logs results | Python, FFmpeg |
+| `batch_renamer` *(coming soon)* | Renames editorial dailies with structured naming | Python |
+| `frameio_uploader` *(coming soon)* | Uploads and organizes assets using Frame.io API | Python, REST |
+| `watchfolder_qc_trigger` *(coming soon)* | Monitors a folder and triggers QC automation on new deliveries | Bash, Shell |
+
+---
+
+## 🧠 Why This Repo Exists
+
+Studios and post houses are drowning in media, metadata, and manual work. I build tools that:
+- Reduce clicks and errors
+- Speed up delivery and QC
+- Connect creative tools with engineering systems
+
+If you're looking for someone who can think like an editor **and** build like an engineer — we should talk.
+
+---
+
+## 📫 Contact
+
+- **LinkedIn**: [linkedin.com/in/henrydthompson](https://www.linkedin.com/in/henry-thompson-26512a49/)
+- **GitHub**: [github.com/henrydthompson](https://github.com/henrydtho) 
+---
+
+## 🚧 Roadmap
+
+- [ ] Add batch file renamer
+- [ ] Add Frame.io delivery script
+- [ ] Add XML metadata parser
+- [ ] Add IMF QC watchfolder script
