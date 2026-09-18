@@ -31,7 +31,7 @@ Welcome! This repository contains Python and Bash tools built to automate real-w
 
 ## 👨‍💻 About Me
 
-I'm **Henry Thompson** — a post-production professional turned engineering-minded MBA graduate at Claremont Graduate University. After a decade working with top-tier clients like Netflix, HBO, and Warner Bros., I now focus on building efficient, scalable tools that bridge editorial, operations, and technology.
+I'm **Henry Thompson** — a post-production professional turned engineer at NBCUniversal. After a decade working with top-tier clients like Netflix, HBO, and Warner Bros., I now focus on building efficient, scalable tools that bridge editorial, operations, and technology.
 
 
 ---
